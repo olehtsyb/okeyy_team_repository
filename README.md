@@ -1,5 +1,5 @@
 # Hi all
-# It is a training repositoriy.
+# It is a training repository.
 # Name of team: OKEYYYYYY
 # Team members:
 # 1.Maksum Petryshyn
